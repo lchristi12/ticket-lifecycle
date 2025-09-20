@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 As an end user, copy and paste this link http://localhost/osTicket, we are going to create a ticket under the user, Karen, that we created from the last tutorial. Click open ticket and fill out the contact information.
 
-  For the help topic, lets select report a problem and in the issue summary, enter "entire mobile/online banking system is down". Give a description of the situation based on the issue summary and after click "create ticket". 
+  For the help topic, select report a problem and in the issue summary, enter "entire mobile/online banking system is down". Give a description of the situation based on the issue summary and after click "create ticket". 
 </p>
 <br />
 
